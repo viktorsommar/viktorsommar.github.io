@@ -1,3 +1,7 @@
 h1 {
     color: #0066ff
 }
+
+img {
+	max-width:100%;
+}
